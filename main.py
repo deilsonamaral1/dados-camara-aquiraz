@@ -6,8 +6,9 @@ def buscar_dados():
     headers = {'User-Agent': 'Mozilla/5.0'}
     
     # 1. URLs da API (Garantindo o formato JSON)
-    url_p = "https://sapl.aquiraz.ce.leg.br/api/parlamentares/parlamentar/?format=json"
-    url_m = "https://sapl.aquiraz.ce.leg.br/api/materia/materialegislativa/?format=json"
+# Adicionamos '&page_size=100' para pegar todos de uma vez
+    url_p = "https://sapl.aquiraz.ce.leg.br/api/parlamentares/parlamentar/?format=json&page_size=100"
+    url_m = "https://sapl.aquiraz.ce.leg.br/api/materia/materialegislativa/?format=json&page_size=100"
 
     try:
         # Coletando Parlamentares
