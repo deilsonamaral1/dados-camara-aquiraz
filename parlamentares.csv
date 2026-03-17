@@ -1,0 +1,11 @@
+﻿id,__str__,link_detail_backend,metadata,nome_completo,nome_parlamentar,sexo,numero_gab_parlamentar,telefone,telefone_celular,endereco_web,profissao,email,locais_atuacao,ativo,biografia,fotografia,cropping,nivel_instrucao
+49,Aglais,/parlamentar/49,{},Maria Aglais Maia de Aquino,Aglais,F,,,,,,,,False,,,,
+46,Aiton Luiz,/parlamentar/46,{},Aiton Luiz Assunção Cavalcante,Aiton Luiz,M,,,,,,,,False,,,,
+77,Alderlan Oliveira,/parlamentar/77,{},Francisco Alderlan Alves de Oliveira,Alderlan Oliveira,M,,,,,Advogado,,,True,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/77/alderlan.jpg,"0,32,161,193",7.0
+13,Alex Lemos,/parlamentar/13,{},Alexson Moreira Lemos,Alex Lemos,M,,,,,Estudante,,,True,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/13/design_sem_nome.png,"0,0,668,669",8.0
+60,Ambrózio Alfredo,/parlamentar/60,{},Ambrózio Alfredo Benício das Neves,Ambrózio Alfredo,M,,,,,,,,False,,,,
+42,Ambrózio Filho,/parlamentar/42,{},Ambrózio Alfredo Bernardo Filho,Ambrózio Filho,M,,,,,,,,False,,,,
+38,Angelo,/parlamentar/38,{},Francisco Ângelo Maia de Aquiraz,Angelo,M,,,,,,,,False,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/38/angelo.png,"0,14,59,73",
+73,Arimatea,/parlamentar/73,{},José Arimatea da Silva,Arimatea,M,,,,,,,,False,,,,
+48,Ayda Maria,/parlamentar/48,{},Ayda Maria Soares de Oliveira,Ayda Maria,F,,,,,,,,False,,,,
+9,Babá,/parlamentar/9,{},José Ribamar Lima,Babá,M,,,,,Vereador,,,True,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/9/baba_aeGFZTG.jpg,"154,94,876,815",4.0
