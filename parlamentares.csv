@@ -1,7 +1,7 @@
 ﻿id,__str__,link_detail_backend,metadata,nome_completo,nome_parlamentar,sexo,numero_gab_parlamentar,telefone,telefone_celular,endereco_web,profissao,email,locais_atuacao,ativo,biografia,fotografia,cropping,nivel_instrucao
 49,Aglais,/parlamentar/49,{},Maria Aglais Maia de Aquino,Aglais,F,,,,,,,,False,,,,
 46,Aiton Luiz,/parlamentar/46,{},Aiton Luiz Assunção Cavalcante,Aiton Luiz,M,,,,,,,,False,,,,
-77,Alderlan Oliveira,/parlamentar/77,{},Francisco Alderlan Alves de Oliveira,Alderlan Oliveira,M,,,,,Advogado,,,True,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/77/alderlan.jpg,"0,32,161,193",7.0
+77,Alderlan Oliveira,/parlamentar/77,{},Francisco Alderlan Alves de Oliveira,Alderlan Oliveira,M,,,,,Advogado,,,True,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/77/aldertlan.jpg,"44,52,310,318",7.0
 13,Alex Lemos,/parlamentar/13,{},Alexson Moreira Lemos,Alex Lemos,M,,,,,Estudante,,,True,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/13/design_sem_nome.png,"0,0,668,669",8.0
 60,Ambrózio Alfredo,/parlamentar/60,{},Ambrózio Alfredo Benício das Neves,Ambrózio Alfredo,M,,,,,,,,False,,,,
 42,Ambrózio Filho,/parlamentar/42,{},Ambrózio Alfredo Bernardo Filho,Ambrózio Filho,M,,,,,,,,False,,,,
@@ -18,7 +18,7 @@
 27,Conceição Callou,/parlamentar/27,{},Maria da Conceição Ribeiro Callou,Conceição Callou,F,,,,,,,,False,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/27/conceicao_callou.jpg,"0,0,194,194",
 30,Daniel Markan,/parlamentar/30,{},Daniel Menezes Markan,Daniel Markan,M,,,,,,,,False,,,,
 70,Danilo Cardoso,/parlamentar/70,{},Danilo Alves Cardoso,Danilo Cardoso,M,,,,,,,,False,,,,
-18,Diego Queiroz,/parlamentar/18,{},Diego Câmara Queiroz,Diego Queiroz,M,,,,,,,,True,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/18/image00002.jpeg,"712,148,2527,1962",5.0
+18,Diego Queiroz,/parlamentar/18,{},Diego Câmara Queiroz,Diego Queiroz,M,,,,,,,,True,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/18/diego.jpg,"0,3,351,354",5.0
 22,Dr. Cláudio,/parlamentar/22,{},Cláudio José Fernandes Eufrásio,Dr. Cláudio,M,,,,,Médico,,,False,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/22/claudio_eufrasio.jpg,"0,8,192,200",
 61,Durval Queiroz,/parlamentar/61,{},Durval Lopes de Queiroz,Durval Queiroz,M,,,,,,,,False,,,,
 4,Fernando do Picão,/parlamentar/4,{},Luiz Fernando Moreira Câmara,Fernando do Picão,M,,,,,Outros,,,True,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/4/fernando_laCbf9H.jpg,"0,0,914,913",4.0
@@ -60,7 +60,7 @@
 79,Professora Loilde,/parlamentar/79,{},Louilde Bertolso do Vale,Professora Loilde,F,,,,,Administradora,,,False,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/79/whatsapp_image_2026-03-02_at_14.15.23.jpeg,"269,78,1039,847",7.0
 69,Raimundo Lima Façanha,/parlamentar/69,{},Raimundo Lima Façanha,Raimundo Lima Façanha,M,,,,,,,,False,,,,
 74,Raul Freitas,/parlamentar/74,{},Raú da Silva Freitas,Raul Freitas,M,,,,,Engenheiro,,,True,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/74/raul.png,"33,15,324,307",7.0
-20,Ricardsson Santana,/parlamentar/20,{},Ricardsson Santana da Silva,Ricardsson Santana,M,,,,,,,,True,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/20/riccardsson.jpg,"1273,370,2100,1197",
+20,Ricardsson Santana,/parlamentar/20,{},Ricardsson Santana da Silva,Ricardsson Santana,M,,,,,,,,True,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/20/riccardson.jpg,"63,24,274,234",
 25,Rithele da Vanúzia,/parlamentar/25,{},Karla Rithele Moreira Lemos,Rithele da Vanúzia,F,,,,,,,,False,,,,
 78,Ronaldo Lima,/parlamentar/78,{},Ronaldo Lima,Ronaldo Lima,M,,,,,,,,False,,http://sapl.aquiraz.ce.leg.br/media/sapl/public/parlamentar/78/13_7846.jpg,"0,32,161,194",5.0
 71,Rosean Sá,/parlamentar/71,{},Rosean Ferreira Sá Mendes,Rosean Sá,M,,,,,,,,False,,,,
